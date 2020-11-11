@@ -1,0 +1,43 @@
+h3,h2{
+    
+    padding-bottom:5px;
+   
+}
+#yellow{
+    border: black ;
+    background-color: yellow;
+    margin:15px 0px;
+}
+#blue{
+    border: black ;
+    background-color: palevioletred;
+    margin:15px 0px;
+}
+#orange{
+    border: black ;
+    background-color:orange;
+    margin:15px 0px;
+}
+
+.mar{
+   margin: 15px;
+   
+}
+.hd{
+   
+    background-color: brown;
+    border: solid 2px black;
+    padding: 10px 25px;
+    width: 100%;
+}
+.bor{
+    padding:0px;
+    margin:0px 0px;
+    width: 100%;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-brand{
+    font-size: 2em;
+}
